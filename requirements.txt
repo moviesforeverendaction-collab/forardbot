@@ -1,6 +1,6 @@
 pyrofork
 motor
-TgCrypto
-Dnspython
+TgCrypto==1.2.5
+dnspython
 aiohttp
 pytz
